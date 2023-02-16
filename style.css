@@ -1,0 +1,90 @@
+html
+{
+  background-color:grey;
+}
+#p{
+   
+  position: fixed;
+  top: 1.5ch;
+  right:10px;
+}
+#d{  
+  position: fixed;
+  top: 1.8ch;
+  right: 55px; 
+}
+#g{
+   
+  position: fixed;
+  top: 0.075ch;
+  right: 95px;
+   
+}
+#i{
+   
+  position: fixed;
+  top: 0.075ch;
+  right: 150px;
+  
+}
+#gi{
+  position:fixed;
+  text-align: center;
+  top: 2.3cm;
+  left: 30%;
+  right:30% 
+
+}
+#border{
+  position: fixed;
+  border-style: solid;
+  border-color:darkgray;
+  border-radius: 25px;
+  height: 0.9cm;
+  width: 40%;
+  margin-top: 17%;
+  margin-left:29%;
+  border-image: round;
+}
+#si{
+position: fixed;
+margin-top: 17.6%;
+margin-left: 29.5%;
+}
+#sm{
+  position: fixed;
+  margin-top: 17.4%;
+  right: 12.2cm;
+  }
+  #a{
+    position: fixed;
+    background-color: darkgray;
+    color: black;
+    border: 2px;
+    border-style: solid;
+    text-align: center;
+    border-color: darkgray;
+    width:120px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 22%;
+    margin-left: 39%;
+  }
+  #b{
+    position: fixed;
+    background-color: darkgray;
+    color: black;
+    border: 2px;
+    border-style: solid;
+    text-align: center;
+    border-color: darkgray;
+    width:135px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 22%;
+    margin-left: 50%;
+  }
